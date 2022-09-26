@@ -1,15 +1,14 @@
 {
-    "flame_breath": {
-      "sounds": [
-        "suit/flame_breath"
-      ],
-      "category": "player"
-    },
-
-    "robin_hood": {
-        "sounds": [
-            "suit/robin_hood"
-        ],
-        "category": "player"
-    }
+  "charged.flame_breath": {
+    "sounds": [
+      "suit/flame_breath"
+    ],
+    "category": "player"
+  },
+  "player.hood": {
+    "sounds": [
+      "suit/robin_hood"
+    ],
+    "category": "player"
+  }
 }
